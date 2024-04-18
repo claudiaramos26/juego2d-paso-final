@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689875369996",
+    "project_id": "videojuego2d-disenodejuegos",
+    "storage_bucket": "videojuego2d-disenodejuegos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689875369996:android:ed4765d0ef8ec473b16e29",
+        "android_client_info": {
+          "package_name": "com.udgvirtual.videojuego2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCeiBe_wEzMAOfajo-raXhMEWJj8JfFZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

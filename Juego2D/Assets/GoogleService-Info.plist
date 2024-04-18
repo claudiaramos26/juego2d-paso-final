@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBBKShwYeUpSwhIS0NxlJz9m4dlyH0ANpU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>689875369996</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.udgvirtual.videojuego2d</string>
+	<key>PROJECT_ID</key>
+	<string>videojuego2d-disenodejuegos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videojuego2d-disenodejuegos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:689875369996:ios:d2665dcef635058cb16e29</string>
+</dict>
+</plist>
